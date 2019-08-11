@@ -1,0 +1,9 @@
+* filter=git-crypt diff=git-crypt
+.gitattributes !filter !diff
+.gitignore !filter !diff
+kk !filter !diff
+
+#aaa
+#secretfile filter=git-crypt diff=git-crypt
+#*.key filter=git-crypt diff=git-crypt
+#*.md filter= diff=

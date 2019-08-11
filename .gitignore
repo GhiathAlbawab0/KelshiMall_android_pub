@@ -1,7 +1,6 @@
 
 # git-crypt
-.git-crypt/
-*.gitattributes
+#.git-crypt/
 
 # Built application files
 *.apk
